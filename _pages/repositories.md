@@ -1,5 +1,5 @@
 ---
-permalink: /
+layout: archive
 title: "Repositories"
 author_profile: true
 
