@@ -3,7 +3,7 @@ title: "Learning by parenting: How do mothers respond to their children's develo
 collection: publications
 permalink: /publication/learningbyparenting
 excerpt: ''
-date: 2024
+date: 2024-2
 venue: 'Social Science Research'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0049089X24000103?via%3Dihub'
 citation: 'Garcia-Sierra, A. (2024) Learning by Parenting: How do Mothers Respond to Changes in their Children’s Developmental Processes? Social Science Research.'
