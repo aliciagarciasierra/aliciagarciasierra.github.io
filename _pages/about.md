@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Alicia García-Sierra. Postdoctoral researcher."
+title: "Alicia García-Sierra"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a Postdoctoral Researcher at the Swiss Centre of Expertise in Life Course Research LIVES at the University of Lausanne. I work on the [EQUALOPP project](https://people.unil.ch/michaelgratz/projects/), which examines the relationship between the normative ideal of equality of opportunity and the empirical measures of inequality. 
 
-A data-driven personal website
+I obtained my PhD from the University of Oxford and Nuffield College in January 2023. My thesis, _Uneven Pathways_,  advances the understanding of the socioeconomic inequalities in children’s development by examining three novel mechanisms of intergenerational transmission of (dis)advantages. 
+
+Prior to joining Oxford, I completed a Masters in Research in Social Sciences at the Carlos III-Juan March Institute (IC3JM), where I held the Juan March Servera Scholarship. I also worked as a Research Assistant for the Effort and Social Inequality Research Project, and as a Teaching Assistant in the Social Sciences Department.
+
+My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and (dis)advantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods with a special emphasis on causally-oriented designs
+
+My work has been published in _Social Science Research_ and _Social Justice Research_. 
