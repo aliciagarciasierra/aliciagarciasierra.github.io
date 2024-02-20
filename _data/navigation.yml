@@ -10,7 +10,7 @@ main:
     url: /talks/    
     
   - title: "cv"
-    url: /cv/
+    url: /files/GARCIASIERRACV.pdf
         
   - title: "repositories"
     url: /repositories/
