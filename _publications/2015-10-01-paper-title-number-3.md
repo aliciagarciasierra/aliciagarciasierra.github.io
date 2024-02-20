@@ -3,7 +3,7 @@ title: "Parental Responses to Children’s Early Health Disadvantages: Evidence 
 collection: publications
 permalink: /publication/parentalresponses
 excerpt: ' Forthcoming '
-date: ' ' 
+date: 2024-03-01 
 venue: 'European Sociological Review'
 paperurl: ' '
 citation: ' '
