@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Alicia García Sierra"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Alicia García Sierra"
+description              : &description "Postdoc researcher"
 url                      : https://aliciagarciasierra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profileali.png"
+  name             : "Alicia García Sierra"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoc researcher"
+  location         : "Lausanne"
+  employer         : "Swiss Centre of Expertise in Life Course Research LIVES, University of Lausanne."
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "alicia.garciasierra@unil.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
