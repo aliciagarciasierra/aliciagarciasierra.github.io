@@ -6,8 +6,8 @@ main:
   - title: "research projects"
     url: /projects/    
 
-  - title: "talks"
-    url: /talks/    
+  # - title: "talks"
+    # url: /talks/    
     
   - title: "cv"
     url: /files/GARCIASIERRACV.pdf
