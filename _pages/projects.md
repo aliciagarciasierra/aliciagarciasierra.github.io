@@ -6,4 +6,15 @@ author_profile: true
 
 ---
 
-Under construction... 
+### Work in progress
+
+· Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process. _Under review_
+
+· The intergenerational effect of educational expansion: evidence from a natural experiment in Spain
+(with Mar Espadafor). _Revise & Resubmit_
+
+· Liberal and Radical Equality of Opportunity (with Michael Grätz)
+
+· The Effect of Parental In-Work Poverty on Child Development.
+
+· Unmet Educational Expectations and Meritocratic Beliefs (with César Fuster Llamazares & Fernando Sánchez Monforte)
