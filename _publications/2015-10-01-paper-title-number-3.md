@@ -2,7 +2,7 @@
 title: "Parental Responses to Children’s Early Health Disadvantages: Evidence from a British Twin Study. "
 collection: publications
 permalink: /publication/parentalresponses
-excerpt: ''
+excerpt: ' '
 date: 2024-03-18 
 venue: 'European Sociological Review'
 paperurl: 'https://academic.oup.com/esr/advance-article/doi/10.1093/esr/jcae016/7631266?utm_source=advanceaccess&utm_campaign=esr&utm_medium=email'
