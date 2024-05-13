@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "projects"
+title: "Projects"
 permalink: /projects/
 author_profile: true
 
@@ -13,7 +13,10 @@ author_profile: true
 
 · Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process. _Under Review_
 
-· Liberal and Radical Equality of Opportunity (with Michael Grätz)
+· Liberal and Radical Equality of Opportunity (with Michael Grätz) 
+
+. Does Education Moderate the Impact of Genes on Life Chances?
+Evidence from the 1944 educational reform in the United Kingdom. (with Michael Grätz)
 
 · The Effect of Parental In-Work Poverty on Child Development.
 

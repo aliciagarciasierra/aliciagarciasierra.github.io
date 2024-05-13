@@ -1,9 +1,9 @@
 ---
 layout: archive
-title: "repositories"
+title: "Repositories"
 permalink: /repositories/
 author_profile: true
 
 ---
 
-Under construction...
+Under construction.
