@@ -12,8 +12,8 @@ main:
   - title: "cv"
     url: /files/GARCIASIERRACV.pdf
         
-  - title: "repositories"
-    url: /repositories/
+  - title: "code"
+    url: /code/
     
  #- title: "teaching"
   #  url: /teaching/
