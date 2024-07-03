@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "publications"
+  - title: "Publications"
     url: /publications/
 
-  - title: "projects"
-    url: /projects/    
+  - title: "Work in progress"
+    url: /workinprogress/    
 
   # - title: "talks"
     # url: /talks/    
     
-  - title: "cv"
+  - title: "CV"
     url: /files/GARCIASIERRACV.pdf
         
-  - title: "code"
+  - title: "Code"
     url: /code/
     
  #- title: "teaching"
