@@ -1,22 +1,19 @@
 ---
 layout: archive
-title: "Projects"
-permalink: /projects/
+title: "Work in progress"
+permalink: /workinprogress/
 author_profile: true
 
 ---
 
-### Work in progress
-
 · The intergenerational effect of educational expansion: evidence from a natural experiment in Spain
 (with Mar Espadafor). _Revise & Resubmit_
 
+· Liberal and Radical Equality of Opportunity (with Michael Grätz). Working paper available [here](https://osf.io/preprints/socarxiv/t2ucp).
+
 · Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process _Under Review_
 
-· Liberal and Radical Equality of Opportunity (with Michael Grätz) 
-
-. Does Education Moderate the Impact of Genes on Life Chances?
-Evidence from the 1944 educational reform in the United Kingdom (with Michael Grätz)
+. Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz)
 
 · The Effect of Parental In-Work Poverty on Child Development.
 
