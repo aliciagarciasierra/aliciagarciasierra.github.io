@@ -13,7 +13,7 @@ author_profile: true
 
 · Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process _Under Review_
 
-. Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz)
+. Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz).
 
 · The Effect of Parental In-Work Poverty on Child Development.
 
