@@ -11,10 +11,10 @@ author_profile: true
 
 · Liberal and Radical Equality of Opportunity (with Michael Grätz). Working paper available [here](https://osf.io/preprints/socarxiv/t2ucp).
 
-· Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process _Under Review_
+· Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process.  _Under Review_
 
-. Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz).
+. Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz). _Under Review_
 
-· The Effect of Parental In-Work Poverty on Child Development.
+· The Protective Role of Parental Work Intensity for Children in Poverty in the United States.
 
 · Unmet Educational Expectations and Meritocratic Beliefs (with César Fuster Llamazares & Fernando Sánchez Monforte)
