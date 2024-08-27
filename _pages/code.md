@@ -13,6 +13,6 @@ author_profile: true
   . Replication materials for the Working Paper **Skills Beget Skills: Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process** available [here](https://github.com/aliciagarciasierra/MOTHERS_SKILLS).
 
 
-  . Replication materials for the Working Paper **Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz)** available [here](https://github.com/aliciagarciasierra/REFORM_GENES_ELSA).
+  . Replication materials for the Working Paper **Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz)** available [here](https://github.com/aliciagarciasierra/REFORM_GENES_ELSA). 
 
 
