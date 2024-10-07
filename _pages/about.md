@@ -13,7 +13,7 @@ I obtained my PhD from the University of Oxford and Nuffield College in January 
 
 Prior to joining Oxford, I completed a Masters in Research in Social Sciences at the Carlos III-Juan March Institute (IC3JM), where I held the Juan March Servera Scholarship. I also worked as a Research Assistant for the Effort and Social Inequality Research Project, and as a Teaching Assistant in the Social Sciences Department. 
 
-My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and (dis)advantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods and household panel datasets, with a special emphasis on causally-oriented designs.
+My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and disadvantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods and household panel datasets, with a special emphasis on causally-oriented designs.
 
 My work has been published in _European Sociological Review_, _Social Science Research_ and _Social Justice Research_. 
 
