@@ -13,6 +13,6 @@ author_profile: true
   . Replication materials for the Working Paper [Addressing the Role of Mothers’ Occupation-Specific Skills on Children’s Developmental Process](https://github.com/aliciagarciasierra/MOTHERS_SKILLS).
 
 
-  . Replication materials for the Working Paper [Does an Educational Reform Moderate the Relationship between Genes and Life Chances? Evidence from the United Kingdom (with Michael Grätz)](https://github.com/aliciagarciasierra/REFORM_GENES_ELSA). 
+  . Replication materials for the Working Paper [Does an Increase in the Length of Compulsory Schooling Moderate the Relationship between Genes and Socioeconomic Outcomes? Evidence from the Education Act of 1944 in England. (with Michael Grätz)](https://github.com/aliciagarciasierra/REFORM_GENES_ELSA). 
 
 
