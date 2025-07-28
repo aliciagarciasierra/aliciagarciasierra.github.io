@@ -1,5 +1,5 @@
 ---
-  title: "The protective role of parental work intensity for children in poverty in the United States."
+title: "The protective role of parental work intensity for children in poverty in the United States."
 collection: publications
 permalink: /publication/workintensity
 excerpt: ' '
