@@ -1,0 +1,12 @@
+/* Make the sidebar avatar larger */
+.author__avatar img {
+  width: 220px;
+  max-width: 220px; /* override theme's max-width */
+  height: auto;
+}
+
+/* Optional: give it a subtle border to match the theme */
+.author__avatar img {
+  border: 3px solid rgba(0,0,0,0.05);
+  border-radius: 50%;
+}
