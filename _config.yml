@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Alicia García-Sierra"
 title_separator          : "-"
 name                     : &name "Alicia García-Sierra"
-description              : &description "Postdoctoral researcher in sociology | LIVES Centre"
+description              : &description "Postdoctoral researcher in sociology, LIVES Centre"
 url                      : https://aliciagarciasierra.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral researcher in sociology studying inequality at the LIVES Centre""
   location         : "Lausanne"
-  employer         : "LIVES centre, University of Lausanne."
+  employer         : "LIVES centre, University of Lausanne"
   uri              : # URL
   email            : "alicia.garciasierra@unil.ch" 
 
