@@ -10,3 +10,12 @@
   border: 3px solid rgba(0,0,0,0.05);
   border-radius: 50%;
 }
+
+/* === Alicia: enlarge sidebar photo === */
+.author__avatar img {
+  width: 220px !important;
+  max-width: 220px !important;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid rgba(0, 0, 0, 0.05);
+}
