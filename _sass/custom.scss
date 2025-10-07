@@ -19,3 +19,19 @@
   border-radius: 50%;
   border: 3px solid rgba(0, 0, 0, 0.05);
 }
+
+/* === Enlarge sidebar avatar (container + image) === */
+.sidebar .author__avatar {
+  width: 220px !important;
+  max-width: 220px !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.sidebar .author__avatar img {
+  width: 100% !important;   /* fill container */
+  max-width: 100% !important;
+  height: auto;
+  border-radius: 50%;
+  border: 3px solid rgba(0,0,0,0.05);
+}
