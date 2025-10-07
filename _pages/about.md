@@ -13,5 +13,5 @@ I hold a PhD in Sociology from the University of Oxford and Nuffield College (20
 
 My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and disadvantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods, household panel datasets, and genetic data, with a special emphasis on causally-oriented designs.
 
-My work has been published or is forthcoming in American Journal of Sociology, European Sociological Review, Social Science Research, Research in Social Stratification and Mobility, Demographic Research, and Social Justice Research.
+My work has been published or is forthcoming in _American Journal of Sociology_, _European Sociological Review_, _Social Science Research_, _Research in Social Stratification and Mobility_, _Demographic Research_, and _Social Justice Research_.
 
