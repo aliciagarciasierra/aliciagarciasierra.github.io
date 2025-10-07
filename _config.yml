@@ -1,29 +1,33 @@
+# =========================
+# Site: Alicia García-Sierra
+# Powered by Jekyll · Theme: al-folio · Photos from Unsplash
+# =========================
+
 # --- Basic site settings ---
 title: "Alicia García-Sierra"
 description: "Postdoctoral researcher"
 url: "https://aliciagarciasierra.github.io"
-baseurl: ""  # leave empty for username.github.io root
+baseurl: ""                 # keep empty for username.github.io root
 locale: "en-US"
 timezone: "Europe/London"
-
-# If this repo is your user site, this can be omitted or set to your repo
 repository: "aliciagarciasierra/aliciagarciasierra.github.io"
 
 # --- Theme ---
 remote_theme: alshedivat/al-folio
 
-# GitHub Pages–supported plugins
+# --- Plugins (GitHub Pages–supported) ---
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
-# --- Author / profile (used in sidebar/header blocks) ---
+# --- Author / profile ---
 author:
   name: "Alicia García-Sierra"
-  avatar: "assets/img/profileali.jpeg"   # move your image to /assets/img/
+  avatar: "assets/img/profileali.jpeg"   # place your image here
   bio: "Postdoctoral researcher"
   location: "Lausanne"
   employer: "LIVES Centre, University of Lausanne"
@@ -33,7 +37,7 @@ author:
   github: "https://github.com/aliciagarciasierra"
   linkedin: "https://www.linkedin.com/in/aliciagsierra/"
 
-# --- Navigation (adjust paths as your pages/collections are set up) ---
+# --- Navigation ---
 navbar:
   - title: "Home"
     url: /
@@ -43,30 +47,31 @@ navbar:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
+  - title: "News"
+    url: /news/
   - title: "CV"
     url: /cv/
   - title: "Contact"
     url: /contact/
 
 # --- Footer ---
-footer_text: "Powered by Jekyll"
+footer_text: "Powered by Jekyll · Theme: al-folio · Photos from Unsplash"
 
-# --- Posts / pagination (optional) ---
+# --- Posts / pagination ---
 paginate: 5
 paginate_path: /page:num/
+permalink: /:categories/:title/
+feed:
+  path: feed.xml
 
 # --- Markdown / code ---
 markdown: kramdown
 highlighter: rouge
+kramdown:
+  input: GFM
 
-# --- Feeds / SEO basics ---
-feed:
-  path: feed.xml
-permalink: /:categories/:title/
-
-# --- Collections (start simple; you can expand later) ---
-# al-folio ships with 'projects' and 'news' collections by default.
-# Keep any you actively use; otherwise migrate content gradually.
+# --- Collections ---
+# al-folio ships with 'projects' and 'news'. Keep teaching/publications too.
 collections:
   projects:
     output: true
@@ -81,7 +86,7 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-# --- Defaults (leaner than academicpages; use generic layouts) ---
+# --- Defaults (layouts) ---
 defaults:
   - scope:
       path: ""
@@ -108,3 +113,27 @@ defaults:
       type: publications
     values:
       layout: page
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+
+# --- Includes / excludes (keep minimal) ---
+include:
+  - _pages
+  - files
+exclude:
+  - node_modules
+  - vendor
+  - README
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - yarn.lock
+  - tmp
+  - log
+
+# --- Misc ---
+future: false
