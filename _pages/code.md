@@ -6,7 +6,7 @@ author_profile: true
 
 ---
   
-You can find the specific code for each paper under the Publications code section.
+You can find the specific code for each paper under the [Publications tab](https://aliciagarciasierra.github.io/publications/).
 
 All my research code is available on [my GitHub profile](https://github.com/aliciagarciasierra).
 
