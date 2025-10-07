@@ -15,5 +15,5 @@ Prior to joining Oxford, I completed a Masters in Research in Social Sciences at
 
 My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and disadvantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods and household panel datasets, with a special emphasis on causally-oriented designs.
 
-My work has been published in _European Sociological Review_, _Social Science Research_, _Demographic Research_, _Research in Social Stratification and Mobility_, and _Social Justice Research_. 
+My work has been published in _European Sociological Review_, _Social Science Research_, _Research in Social Stratification and Mobility_,  _Demographic Research_, and _Social Justice Research_. 
 
