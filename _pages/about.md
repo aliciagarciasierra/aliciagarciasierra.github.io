@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Researcher at the Swiss Centre of Expertise in Life Course Research LIVES at the University of Lausanne. I work on the [EQUALOPP project](https://people.unil.ch/michaelgratz/projects/), which examines the relationship between the normative ideal of equality of opportunity and the empirical measures of inequality. 
+<div style="text-align: justify; text-justify: inter-word;">
+  
+I am a Postdoctoral Researcher at the Swiss Centre of Expertise in Life Course Research (LIVES) at the University of Lausanne. I work on the [EQUALOPP project](https://people.unil.ch/michaelgratz/projects/), which examines the relationship between the normative ideal of equality of opportunity and the empirical measures of inequality. 
 
 I hold a PhD in Sociology from the University of Oxford and Nuffield College, where I was a Clarendon Scholar. My dissertation, [_Uneven Pathways_](https://ora.ox.ac.uk/objects/uuid:e656a443-a9c0-4d3b-837e-123cc0b7e5db), examined three novel mechanisms of intergenerational transmission of (dis)advantages. It was awarded the [2024 ECSR Dissertation of the Year Prize](https://ecsrnet.eu/ecsr-prize-for-best-phd-thesis/).  Prior to joining Oxford, I completed a Masters in Research in Social Sciences at the Carlos III-Juan March Institute (IC3JM), where I held the Juan March Servera Scholarship. 
 
@@ -15,3 +17,4 @@ My research interests lie in the fields of social stratification and child devel
 
 My work has been published or is forthcoming in _American Journal of Sociology_, _European Sociological Review_, _Social Science Research_, _Research in Social Stratification and Mobility_, _Demographic Research_, and _Social Justice Research_.
 
+</div>
