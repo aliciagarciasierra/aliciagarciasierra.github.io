@@ -14,6 +14,6 @@ author_profile: true
 
 4) Tracing Inequality of Opportunity Across Cohorts (_with Michael Grätz_). **In progress.**
 
-5) Do Parental Income Shocks Boost the Realisation of Children’s Genetic Potential? Evidence from the UK Child Tax Credit Expansion (_with Inés Echavarría García_). **In progress.**
+5) Do Parental Income Shocks Boost the Realisation of Children’s Genetic Potential? Evidence from the UK Child Tax Credit Expansion (_with Inés Echevarría García_). **In progress.**
 
 6) Parental Nonstandard Work Schedules and Children’s Physical Health: Longitudinal Evidence fromthe US (_with Wen-Jui Han and Pablo Gracia_).  **In progress.**
