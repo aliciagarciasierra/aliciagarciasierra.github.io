@@ -24,11 +24,11 @@ author:
   avatar           : "PictureAliciaBio.jpg"
   name             : "Alicia García-Sierra"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor"
-  location         : "Lausanne"
-  employer         : "LIVES centre, University of Lausanne"
+  bio              : " "
+  location         : "Madrid"
+  employer         : "Universidad Carlos III de Madrid"
   uri              : # URL
-  email            : "alicia.garciasierra@unil.ch" 
+  email            : "alicia.garcia@uc3m.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
