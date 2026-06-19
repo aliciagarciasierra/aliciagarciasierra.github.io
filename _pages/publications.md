@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-7) **García-Sierra, A.** & Grätz, M. (2025) Does Expanding Free Secondary Education Moderate the Relationship between Genes and Socioeconomic Outcomes? Evidence from the Education Act of 1944 in England. _American Journal of Sociology, accepted for publication._
+7) **García-Sierra, A.** & Grätz, M. (2025) Does Expanding Free Secondary Education Moderate the Relationship between Genes and Socioeconomic Outcomes? Evidence from the Education Act of 1944 in England. _American Journal of Sociology_. 📄 Read the [paper](https://www.journals.uchicago.edu/doi/10.1086/740030). 💻 Replication [code](https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/2PZYP6). 
    
 6) **García-Sierra, A.** (2025) Do mothers’ occupation-specific skills impact children’s developmental processes? _Research in Social Stratification and Mobility_.
    📄 Read the [paper](https://www.sciencedirect.com/science/article/pii/S0276562425000939)· 💻 Replication [code](https://github.com/aliciagarciasierra/MOTHERS_SKILLS).
