@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am an Assistant Professor of Sociology in the Department of Social Sciences at Universidad Carlos III de Madrid. My research sits at the intersection of social stratification and child development: I study how advantages and disadvantages are transmitted across generations, and how institutions like the family and the education system shape these processes. Methodologically, I work with quantitative methods, household panel data, and genetic data, with a particular focus on causally-oriented designs.
 
-I am an Assistant Professor of Sociology in the Department of Social Sciences at Universidad Carlos III de Madrid. Previously, I worked as a Postdoctoral Researcher at the Swiss Centre of Expertise in Life Course Research (LIVES), at the University of Lausanne, as part of the [EQUALOPP project](https://people.unil.ch/michaelgratz/projects/).
+Before joining UC3M, I was a Postdoctoral Researcher at the Swiss Centre of Expertise in Life Course Research (LIVES), University of Lausanne. I hold a PhD in Sociology from the University of Oxford and Nuffield College, where I was a Clarendon Scholar. My dissertation, [_Uneven Pathways_](https://ora.ox.ac.uk/objects/uuid:e656a443-a9c0-4d3b-837e-123cc0b7e5db), examined three novel mechanisms of intergenerational transmission of (dis)advantages and won the [2024 ECSR Dissertation of the Year Prize](https://ecsrnet.eu/ecsr-prize-for-best-phd-thesis/). Before Oxford, I completed a Master's in Research in Social Sciences at the Carlos III-Juan March Institute (IC3JM), where I held the Juan March Servera Scholarship. 
 
-I hold a PhD in Sociology from the University of Oxford and Nuffield College, where I was a Clarendon Scholar. My dissertation, [_Uneven Pathways_](https://ora.ox.ac.uk/objects/uuid:e656a443-a9c0-4d3b-837e-123cc0b7e5db), examined three novel mechanisms of intergenerational transmission of (dis)advantages. It was awarded the [2024 ECSR Dissertation of the Year Prize](https://ecsrnet.eu/ecsr-prize-for-best-phd-thesis/).  Prior to joining Oxford, I completed a Masters in Research in Social Sciences at the Carlos III-Juan March Institute (IC3JM), where I held the Juan March Servera Scholarship. 
-
-My research interests lie in the fields of social stratification and child development. My main aim is to understand how advantages and disadvantages are transmitted across generations, as well as how social structures such as the family or the education system intertwine with these processes. In my research, I use quantitative methods, household panel datasets, and genetic data, with a special emphasis on causally-oriented designs.
-
-My work has been published or is forthcoming in _American Journal of Sociology_, _European Sociological Review_, _Social Science Research_, _Research in Social Stratification and Mobility_, _Demographic Research_, and _Social Justice Research_.
-
+My work has appeared in _American Journal of Sociology_, _Social Forces_, _European Sociological Review_, _Social Science Research_, and _Research in Social Stratification and Mobility_, among others.
