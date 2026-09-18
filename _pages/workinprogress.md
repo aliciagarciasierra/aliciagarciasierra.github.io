@@ -19,3 +19,6 @@ author_profile: true
 6) Parental Nonstandard Work Schedules and Children’s Physical Health: Longitudinal Evidence fromthe US (_with Wen-Jui Han and Pablo Gracia_).  **In progress.**
 
 7) From Genes to Grades: The Moderating Role of Socio-Emotional Traits (_with Jonas Radl_).  **In progress.**
+
+8) Pooling Skills: Household Resource Allocation and Intergenerational Gains from Lifelong Learning (_with Giovanni Greco_).  **In progress.**
+
