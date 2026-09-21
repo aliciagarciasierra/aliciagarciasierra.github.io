@@ -12,7 +12,7 @@ author_profile: true
 
 3) Tracing Inequality of Opportunity Across Cohorts (_with Michael Grätz_). **Submitted**
 
-4) A God of One’s Own? A Genetic Test of the Religious Individualization Hypothesis (with Jörg Stolz and Alicia Garcia-Sierra).  **Submitted.**
+4) A God of One’s Own? A Genetic Test of the Religious Individualization Hypothesis (_with Jörg Stolz and Michael Grätz_).  **Submitted.**
 
 5) Do Parental Income Shocks Boost the Realisation of Children’s Genetic Potential? Evidence from the UK Child Tax Credit Expansion (_with Inés Echevarría García_). **In progress.**
 
