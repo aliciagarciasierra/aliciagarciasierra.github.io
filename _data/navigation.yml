@@ -11,7 +11,10 @@ main:
     
   - title: "CV"
     url: /files/GARCIASIERRACV.pdf
-        
+
+  - title: "Projects"
+    url: /projects/
+       
   - title: "Code"
     url: /code/
     
